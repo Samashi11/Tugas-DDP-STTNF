@@ -1,0 +1,13 @@
+print("Nama : Salman Maula Ash-Shidqi")
+print("NIM : 0110224157")
+print("Rombel : 24TI10")
+print("Asisten Dosen : Kak Jaya")
+
+#nama = str(input("Nama :"))
+#nim = str(input("NIM :"))
+#rombel = str(input("Rombel :"))
+#asdos = str(input("Asdos :"))
+#print("Nama :", nama)
+#print("NIM :", nim)
+#print("Rombel :", rombel)
+#print("Asdos:", asdos)
