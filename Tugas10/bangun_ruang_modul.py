@@ -22,6 +22,8 @@ def luas_kerucut(jari_jari, tinggi):
   luas = 22/7 * jari_jari * (jari_jari + art.akar(garis_pelukis))
   print("Luas Kerucut dengan jari-jari ", jari_jari, " dan tinggi ", tinggi, " adalah : ", luas)
 
-
+def luas_limas_segitiga(sisi, tinggi):
+  luas = (sisi * tinggi) / 2
+  print("Luas Limas Segitiga dengan sisi ", sisi, " dan tinggi ", tinggi, " adalah : ", luas)
 
 
